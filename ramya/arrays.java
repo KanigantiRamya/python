@@ -33,6 +33,9 @@ public class arrays {
 		{
 			System.out.println(a[i]);
 		}
+//sheetal??
+
+		String[] name = {"rahul", "shetty", "selenium"};
 
 }
 	
